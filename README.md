@@ -1,0 +1,2 @@
+# pyhtonhm
+python odevleri
